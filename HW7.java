@@ -1,0 +1,9 @@
+//H.W ON DEFAULT CONSTRUCTER FOR INTILIZING SAME DATA(STATIC MODE)
+public class HW7								//MAIN METHOD
+{
+	public static void main(String[]args)
+	{
+		SALES b1=new SALES();					//CREATING AN OBJECT AAND ASSIGNING A REFERENCE TO OBJECT
+		b1.showInfo();							//CALLING A METHOD FROM ANOTHER CLASS
+	}
+}
